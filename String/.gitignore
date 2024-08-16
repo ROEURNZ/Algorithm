@@ -1,7 +1,7 @@
-# Ignore directories in the parent directory
-../.vs/
-../Full Practice Python/
-../Patterns/
-../Python3 + HTML5/
-../Tests/
-../convertion/
+# Ignore specific directories and files in the current directory
+.vscode/
+Full Practice Python/
+Patterns/
+Python3 + HTML5/
+Tests/
+convertion/
